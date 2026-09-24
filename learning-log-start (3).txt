@@ -1,7 +1,10 @@
+
 Core Skills Learning Log
 Status: draft
 
 Today I worked with plain text.
 The draft is ready for review.
 Application: Notepad
+
+i m writing this on vscode
 
